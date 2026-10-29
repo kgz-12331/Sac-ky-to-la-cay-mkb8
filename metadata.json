@@ -1,0 +1,6 @@
+{
+  "name": "Sắc Ký Sắc Tố Lá Cây - Phòng Thí Nghiệm & Học Tập Tương Tác",
+  "description": "Mô phỏng trực quan thí nghiệm sắc ký giấy tách chiết sắc tố lá cây (Diệp lục a, b, Carotenoid, Xanthophyll), tính toán hệ số Rf và bộ câu hỏi trắc nghiệm Sinh học tương tác.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
